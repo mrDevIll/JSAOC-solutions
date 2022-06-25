@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/mrDevIll/JSAOC-solutions#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {}
 }
